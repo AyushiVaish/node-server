@@ -1,0 +1,64 @@
+body {
+		  text-align: center;	  
+		   background: url("http://dash.ga.co/assets/anna-bg.png");
+		  background-position: center;
+		  color: white;
+		  font-family: helvetica;
+		  }
+		  
+	input {
+	
+		padding:10px;
+		font-size:18px;
+		border:0px;
+	
+	}
+	
+	p {
+	 
+		font-size:20px;
+	 
+	 
+	 }
+	 
+	input[type="button"] {
+		
+		background: red;
+		color: white;
+						}
+						
+    input[type="text"] {
+		
+		width : 30%;
+	}
+						
+	 
+	footer {
+		
+		margin-top:10%; 
+		font-size:30px; 
+		font-weight:bold;"
+		
+	}
+	
+	  @media (max-width: 500px) {
+        
+			body {
+			
+				font-size:16px;
+			
+			}
+		
+		}
+	
+	
+	img {
+		
+		border-radius:50px;
+	}
+	
+	#search {
+		
+		width:40px;
+		background:white;
+	}
